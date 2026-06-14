@@ -1,3 +1,5 @@
+**→ Исправленная рабочая версия: [CryptoHelper-v2](https://github.com/rriizz2k/CryptoHelper-v2)**
+
   Саша - fronend 
   Миша - backend 
   Руслан - fullstack
