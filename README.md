@@ -1,10 +1,5 @@
 **→ Исправленная рабочая версия: [CryptoHelper-v2](https://github.com/rriizz2k/CryptoHelper-v2)**
 
-  Саша - fronend 
-  Миша - backend 
-  Руслан - fullstack
-  
-зачки: ✓ | X
 
             Идея: (помощник в аналезе криптовалюты)
 
@@ -17,7 +12,4 @@
 2) мат анализ (MACD, EMA_200)
   https://www.youtube.com/watch?v=rf_EQvubKlk&ab_channel=TradingLab
 
-3) мнение людей [|]
 
-4) сумировать всю инфу и показать в приложении с нормальным дизайном(дизайн ДЕЛАЕТ САНЯ)
-![project_idea](https://user-images.githubusercontent.com/96141717/200105992-14b5ea07-98e6-4d8c-8ed6-063b6e049b1e.PNG)
